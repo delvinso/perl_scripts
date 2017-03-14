@@ -1,5 +1,6 @@
 
-# Purpose : Given a genbank flatfile, extract the ID, URL (only name of file), LOCUS, DEFINITION and ORIGIN (continuous sequence), create a new table and insert the associated records.
+# Purpose : Given a genbank flatfile, extract the ID, URL (only name of file), LOCUS, DEFINITION and ORIGIN (continuous sequence),
+# create a new table named 'bacteria.db' and inserts the extracted records. 
 # Author : Delvin So
 
 
