@@ -1,9 +1,9 @@
 
-# author : Delvin So
 # purpose : given two sequences, s1 and s2, finds the best possible alignment (i.e. globally, the alignment between both sequences that 
 # implies the fewest number of mutations) using the needleman-wunsch algorithm. The algorithm takes a larger problem, the sequence, and 
 # divides it into a series of smaller problems with the solutions to those problems solving the larger problem.
 # (https://en.wikipedia.org/wiki/Needleman–Wunsch_algorithm). 
+# author : delvin so
 
 #/usr/bin/perl
 
