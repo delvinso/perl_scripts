@@ -49,7 +49,7 @@ my $file = 'author.dat';
 
 open my $fh, '<', $file or die "Cannot open $file: $!";
 while ( my $line = <$fh> ) {
-	my @tempArray = split('#', $line);
+	my @tempArray = split('#', $line); #splitting the line on # and storing it into an array
 	push @{$hashOfArrays{$tempArray[0]}}, $tempArray[1];
 	#print "Quote:", @{$hashOfArrays{$tempArray[0]}}, "\n";
 }
