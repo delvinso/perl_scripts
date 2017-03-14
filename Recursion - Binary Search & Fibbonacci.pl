@@ -1,8 +1,5 @@
-
-
-# author : Delvin So
 # purpose : Lab #2
-#
+# author : delvin so
 
 #/usr/bin/perl
 use strict;
