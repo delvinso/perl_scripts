@@ -1,6 +1,7 @@
-# author : Delvin So
-# Purpose : given an existing hash of arrays structure and the following file (format: author#quote), load the file into the hash of arrays
+
+# purpose : given an existing hash of arrays structure and the following file (format: author#quote), load the file into the hash of arrays
 # structure and transfers the data from the hash of arrays structure into a table.
+# author : delvin so
 
 # author.dat - 
 
