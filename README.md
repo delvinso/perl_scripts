@@ -1,2 +1,4 @@
 # perl_scripts
-Perl s
+
+
+Random assortment and snippets of perl scripts from in class assignments.
